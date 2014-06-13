@@ -7,3 +7,4 @@ puts "it is feature-A!"
 
 puts "fix-B"
 
+//feature-c
